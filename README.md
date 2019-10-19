@@ -1,5 +1,6 @@
-# Mac Address Lookup
+# MAC Address Lookup
 A dockerized mac address lookup tool that accepts command line parameters and returns a response via CLI.
+
 ---
 ### Install or upgrade
 To download the latest docker container run the following command
@@ -8,7 +9,9 @@ docker pull ianmaguire/mac-address-lookup
 ```
 
 ### Security considerations
-Your API key could be stored in your command line history. Command line history in bash can be turned off by running the following command. 
+Your API key could be stored in your command line history. 
+
+Command line history in bash can be turned off by running the following command. 
 ```
 set +o history
 ```
