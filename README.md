@@ -1,5 +1,5 @@
 # MAC Address Lookup
-A dockerized mac address lookup tool that accepts command line parameters and returns a response via CLI. 
+A dockerized MAC address lookup tool that accepts command line parameters and returns a response via CLI. 
 
 ---
 ### Requirements
