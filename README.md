@@ -1,7 +1,10 @@
 # MAC Address Lookup
-A dockerized mac address lookup tool that accepts command line parameters and returns a response via CLI.
+A dockerized mac address lookup tool that accepts command line parameters and returns a response via CLI. 
 
 ---
+### Requirements
+You must have docker installed, and you will need a valid API key from https://macaddress.io in order to use this application.
+
 ### Install or upgrade
 To download the latest docker container run the following command
 ```
