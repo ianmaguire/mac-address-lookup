@@ -17,7 +17,7 @@ set +o history
 ```
 
 ### Use
-Run the command substituting the API_KEY, and MAC address appropriately
+Run the following command substituting the API_KEY, and MAC address appropriately
 ```
 docker run --rm --name mack -eKEY='API_KEY' -eMAC='00:00:00:ff:ef:57' ianmaguire/mac-address-lookup
 ```
