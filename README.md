@@ -3,7 +3,7 @@ A dockerized mac address lookup tool that accepts command line parameters and re
 
 ---
 ### Requirements
-You must have docker installed, and you will need a valid API key from https://macaddress.io in order to use this application.
+You must have docker installed, and you will need a valid API key from https://macaddress.io 
 
 ### Install or upgrade
 To download the latest docker container run the following command
